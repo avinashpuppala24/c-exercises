@@ -38,10 +38,10 @@ namespace picture_view_app
                 previous_button.Enabled = true;
 
             }
-            else
-            {
+            
+            
 
-            }
+            
             
 
         }
